@@ -12,7 +12,7 @@ Please note that this repository is continually expanding, with new projects bei
 
 - **Supervised Learning**
   - [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/GianlucaBarbiere/SpaceX)
-  - Covid-19 Vaccines Analysis
+  - [Covid-19 Vaccines Analysis](https://github.com/GianlucaBarbiere/Covid19-Vaccines-Analysis/tree/main)
   - Credit Card Fraud Detection
   - Rain Prediction in Australia
 - **Un-Supervised Learning**
