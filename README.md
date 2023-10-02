@@ -14,7 +14,7 @@ Please note that this repository is continually expanding, with new projects bei
   - [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/GianlucaBarbiere/SpaceX)
   - [Covid-19 Vaccines Analysis](https://github.com/GianlucaBarbiere/Covid19-Vaccines-Analysis/tree/main)
   - [Credit Card Fraud Detection](https://github.com/GianlucaBarbiere/Credit-Card-Fraud-Detection/tree/main)
-  - Rain Prediction in Australia
+  - [Rain Prediction in Australia](https://github.com/GianlucaBarbiere/Rain-Prediction-in-Australia/tree/main)
 - **Un-Supervised Learning**
 
 - **Neural Network**
