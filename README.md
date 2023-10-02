@@ -7,8 +7,6 @@ The primary objective of this repository is to provide direct access to the data
 Please note that this repository is continually expanding, with new projects being added over time.
 - - - -
 ## Projects
-
-Within this repository, you will find a series of projects I have completed, including:
 - **Supervised Learning**
   - [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/GianlucaBarbiere/SpaceX)
   - Covid-19 Vaccines Analysis
