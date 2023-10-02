@@ -7,6 +7,9 @@ The primary objective of this repository is to provide direct access to the data
 Please note that this repository is continually expanding, with new projects being added over time.
 - - - -
 ## Projects
+- **Thesis**
+  - Explainable Decision-Making Model for Emotion Recognition from EEG Signals 
+
 - **Supervised Learning**
   - [SpaceX Falcon 9 First Stage Landing Prediction](https://github.com/GianlucaBarbiere/SpaceX)
   - Covid-19 Vaccines Analysis
